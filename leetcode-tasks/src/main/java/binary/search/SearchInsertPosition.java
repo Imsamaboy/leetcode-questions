@@ -1,3 +1,5 @@
+package binary.search;
+
 public class SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {
         int left = 0;

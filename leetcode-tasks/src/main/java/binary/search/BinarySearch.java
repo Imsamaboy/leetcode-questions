@@ -1,3 +1,5 @@
+package binary.search;
+
 public class BinarySearch {
     public int search(int[] nums, int target) {
         int left = 0;

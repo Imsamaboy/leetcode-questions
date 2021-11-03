@@ -1,3 +1,4 @@
+import binary.search.BinarySearch;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

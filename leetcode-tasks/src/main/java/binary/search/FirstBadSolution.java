@@ -1,3 +1,5 @@
+package binary.search;
+
 public class FirstBadSolution {
     public int firstBadVersion(int n) {
         int left = 1;
